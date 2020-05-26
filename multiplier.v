@@ -34,7 +34,7 @@ begin
 		q0 = 0;
 		M <= m;
 		Q = q;
-		n = 4'd1000;
+		n = 4'b1000;
 		end
 	else
 		begin
