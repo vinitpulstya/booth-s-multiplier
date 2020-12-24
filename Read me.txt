@@ -1,5 +1,3 @@
-WELCOME! Atlast someone who cares to read a 'Read me'.
-
 This is a 8-bit multiplier and accepts signed and usigned multiplier and multiplicand.
 The code is really easy to understand and is accompained by test bench "test". 
 This code is synthesiable on Xilinx Spartan - 6, though i have not included contraint file.
